@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{650F372B-E51E-4953-AE1E-58166B00D4AC}"
+	ProjectSection(SolutionItems) = preProject
+		Algorithm_sam2.vsmdi = Algorithm_sam2.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maths", "ConsoleApplication2\Maths.csproj", "{8655C422-C4D5-4306-8BE8-DD5FCCC0574E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Manipultions", "String_Manipultions\String_Manipultions.csproj", "{8161B701-E084-4CC8-A2C9-F02327D468A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList_Manipulation", "LinkedList_Manipulation\LinkedList_Manipulation.csproj", "{89570112-EE6A-41C1-9450-BB5DC448C6DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Manipilations", "Array_Manipilations\Array_Manipilations.csproj", "{C2F1BEA7-2DA4-4219-8714-53E74962BFB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithm", "SortingAlgorithm\SortingAlgorithm.csproj", "{D7C2CFE8-FED4-44E8-B9FA-BBE892568BDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS_StackQueue", "DS_StackQueue\DS_StackQueue.csproj", "{D7F172D4-5AB9-4E3A-955C-B21BB2A3F631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestProject", "MyTestProject\MyTestProject.csproj", "{2C306AEB-1B25-49E0-B714-7B021857FADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZOthers", "ZOthers\ZOthers.csproj", "{84CFD895-582D-4270-83FA-53DE49FF4D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeGraph", "Graphs\TreeGraph.csproj", "{6584D4D6-2018-40EA-9B35-87698CE0ED4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetStuffOOP", "DotNetStuffOOP\DotNetStuffOOP.csproj", "{4264D67C-A822-4F84-8713-6394A4B61636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8655C422-C4D5-4306-8BE8-DD5FCCC0574E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8655C422-C4D5-4306-8BE8-DD5FCCC0574E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8655C422-C4D5-4306-8BE8-DD5FCCC0574E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8655C422-C4D5-4306-8BE8-DD5FCCC0574E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8161B701-E084-4CC8-A2C9-F02327D468A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8161B701-E084-4CC8-A2C9-F02327D468A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8161B701-E084-4CC8-A2C9-F02327D468A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8161B701-E084-4CC8-A2C9-F02327D468A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89570112-EE6A-41C1-9450-BB5DC448C6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89570112-EE6A-41C1-9450-BB5DC448C6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89570112-EE6A-41C1-9450-BB5DC448C6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89570112-EE6A-41C1-9450-BB5DC448C6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F1BEA7-2DA4-4219-8714-53E74962BFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F1BEA7-2DA4-4219-8714-53E74962BFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F1BEA7-2DA4-4219-8714-53E74962BFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F1BEA7-2DA4-4219-8714-53E74962BFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C2CFE8-FED4-44E8-B9FA-BBE892568BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C2CFE8-FED4-44E8-B9FA-BBE892568BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C2CFE8-FED4-44E8-B9FA-BBE892568BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C2CFE8-FED4-44E8-B9FA-BBE892568BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F172D4-5AB9-4E3A-955C-B21BB2A3F631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F172D4-5AB9-4E3A-955C-B21BB2A3F631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F172D4-5AB9-4E3A-955C-B21BB2A3F631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F172D4-5AB9-4E3A-955C-B21BB2A3F631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C306AEB-1B25-49E0-B714-7B021857FADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C306AEB-1B25-49E0-B714-7B021857FADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C306AEB-1B25-49E0-B714-7B021857FADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C306AEB-1B25-49E0-B714-7B021857FADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84CFD895-582D-4270-83FA-53DE49FF4D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CFD895-582D-4270-83FA-53DE49FF4D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CFD895-582D-4270-83FA-53DE49FF4D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84CFD895-582D-4270-83FA-53DE49FF4D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6584D4D6-2018-40EA-9B35-87698CE0ED4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6584D4D6-2018-40EA-9B35-87698CE0ED4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6584D4D6-2018-40EA-9B35-87698CE0ED4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6584D4D6-2018-40EA-9B35-87698CE0ED4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4264D67C-A822-4F84-8713-6394A4B61636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4264D67C-A822-4F84-8713-6394A4B61636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4264D67C-A822-4F84-8713-6394A4B61636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4264D67C-A822-4F84-8713-6394A4B61636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35;packages\Unity.Interception.2.1.505.2\lib\NET35;packages\EnterpriseLibrary.Common.5.0.505.0\lib\NET35
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Algorithm_sam2.vsmdi
+	EndGlobalSection
+EndGlobal
